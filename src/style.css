@@ -1,13 +1,11 @@
 body {
   background-color: #fff080;
 }
-@media(max-width: 576px){
-    body{
-        background-color:#FFB3BB;
-        
-        }
-        h1{
-            color: white;
-        }
-    }
+@media (max-width: 576px) {
+  body {
+    background-color: #ffb3bb;
+  }
+  h1 {
+    color: white;
+  }
 }
